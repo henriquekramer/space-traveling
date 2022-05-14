@@ -1,0 +1,61 @@
+{
+  "id": "b5284834-edeb-4b0f-a266-168216b79ec2",
+  "uid": "sit-eligendi-beatae",
+  "type": "posts",
+  "data": {
+    "title": "transform e-business e-markets",
+    "subtitle": "unleash rich eyeballs",
+    "author": "revolutionize enterprise networks",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "enable robust e-services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Sint velit nostrud pariatur non labore labore ea adipisicing irure id exercitation excepteur laborum eu.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "disintermediate rich infomediaries",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Adipisicing culpa quis magna. Ipsum id consectetur laboris mollit Lorem labore exercitation laborum ea duis ad duis adipisicing aliqua.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "generate clicks-and-mortar solutions",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Eu do ipsum et non enim adipisicing consequat id fugiat aute reprehenderit cupidatat ullamco. Ipsum commodo ut veniam esse aute consectetur culpa eiusmod duis mollit. Ullamco sint voluptate consequat labore id ut dolore non quis.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "cultivate transparent vortals",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ex ut dolor proident ea reprehenderit sit elit.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
