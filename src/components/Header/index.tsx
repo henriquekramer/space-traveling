@@ -4,7 +4,7 @@ import styles from './header.module.scss'
 export default function Header() {
   return (
     <header className={styles.postHeader}>
-      <Link href="/">
+      <Link href="/" prefetch>
         <a>
           <img src="/logo.svg" alt="logo" />
         </a>
